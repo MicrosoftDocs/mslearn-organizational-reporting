@@ -1,5 +1,14 @@
+# Microsoft Learn Organizational Reporting templates
 
-# Contributing
+This repository contains Power BI templates to help you get started visualizing the [Microsoft Learn organizational reporting data](https://docs.microsoft.com/learn/support/org-reporting).
+
+## Support
+* [Power BI Community (Q&A)](https://community.powerbi.com/)
+* [Power BI Documentation](https://docs.microsoft.com/power-bi/fundamentals/power-bi-overview)
+* [Power BI Training](https://docs.microsoft.com/learn/browse/?expanded=power-platform&products=power-bi)
+* If you have any questions about these templates, please contact the [Microsoft Learn Organizational Reporting team](mailto:learnfororg@microsoft.com).
+
+## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
@@ -13,7 +22,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-# Legal Notices
+## Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
 in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
