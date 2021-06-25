@@ -1,12 +1,11 @@
 # Microsoft Learn Organizational Reporting templates
 
-This repository contains Power BI templates to help you get started visualizing the [Microsoft Learn organizational reporting data](https://docs.microsoft.com/learn/support/org-reporting).
+This repository contains Power BI templates to help you get started visualizing the [Microsoft Learn organizational reporting data](https://docs.microsoft.com/learn/support/org-reporting). If you have any questions about these specific templates, please contact the [Microsoft Learn Organizational Reporting team](mailto:learnfororg@microsoft.com).
 
-## Support
+## Power BI Support
 * [Power BI Community (Q&A)](https://community.powerbi.com/)
 * [Power BI Documentation](https://docs.microsoft.com/power-bi/fundamentals/power-bi-overview)
 * [Power BI Training](https://docs.microsoft.com/learn/browse/?expanded=power-platform&products=power-bi)
-* If you have any questions about these templates, please contact the [Microsoft Learn Organizational Reporting team](mailto:learnfororg@microsoft.com).
 
 ## Contributing
 
