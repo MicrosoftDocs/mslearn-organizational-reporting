@@ -4,8 +4,8 @@ This repository contains Power BI templates to help you get started visualizing 
 
 ## Power BI Support
 * [Power BI Community (Q&A)](https://community.powerbi.com/)
-* [Power BI Documentation](https://docs.microsoft.com/power-bi/fundamentals/power-bi-overview)
-* [Power BI Training](https://docs.microsoft.com/learn/browse/?expanded=power-platform&products=power-bi)
+* [Power BI Documentation](https://learn.microsoft.com/power-bi/fundamentals/power-bi-overview?wt.mc_id=orgreporting_sqlpbit_webpage_cnl)
+* [Power BI Training](https://learn.microsoft.com/learn/browse/?expanded=power-platform&products=power-bi)
 
 ## Contributing
 
